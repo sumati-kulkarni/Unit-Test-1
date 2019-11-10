@@ -1,0 +1,14 @@
+C:\Users\kulkarnis18\Documents\EmployeeApp\EmployeeApp\obj\Debug\ItemApp.csprojAssemblyReference.cache
+C:\Users\kulkarnis18\Documents\EmployeeApp\EmployeeApp\bin\Debug\ItemApp.exe.config
+C:\Users\kulkarnis18\Documents\EmployeeApp\EmployeeApp\bin\Debug\ItemApp.exe
+C:\Users\kulkarnis18\Documents\EmployeeApp\EmployeeApp\bin\Debug\ItemApp.pdb
+C:\Users\kulkarnis18\Documents\EmployeeApp\EmployeeApp\obj\Debug\ItemApp.exe
+C:\Users\kulkarnis18\Documents\EmployeeApp\EmployeeApp\obj\Debug\ItemApp.pdb
+C:\Users\kulkarnis18\Documents\ItemApp\ItemApp\bin\Debug\ItemApp.exe.config
+C:\Users\kulkarnis18\Documents\ItemApp\ItemApp\bin\Debug\ItemApp.exe
+C:\Users\kulkarnis18\Documents\ItemApp\ItemApp\bin\Debug\ItemApp.pdb
+C:\Users\kulkarnis18\Documents\ItemApp\ItemApp\obj\Debug\ItemApp.csprojAssemblyReference.cache
+C:\Users\kulkarnis18\Documents\ItemApp\ItemApp\obj\Debug\ItemApp.Properties.Resources.resources
+C:\Users\kulkarnis18\Documents\ItemApp\ItemApp\obj\Debug\ItemApp.csproj.GenerateResource.cache
+C:\Users\kulkarnis18\Documents\ItemApp\ItemApp\obj\Debug\ItemApp.exe
+C:\Users\kulkarnis18\Documents\ItemApp\ItemApp\obj\Debug\ItemApp.pdb

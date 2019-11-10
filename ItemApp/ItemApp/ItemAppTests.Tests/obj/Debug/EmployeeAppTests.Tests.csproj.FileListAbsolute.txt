@@ -1,0 +1,8 @@
+c:\users\rmbadmin\documents\visual studio 2015\Projects\EmployeeApp\EmployeeAppTests.Tests\bin\Debug\EmployeeAppTests.Tests.dll
+c:\users\rmbadmin\documents\visual studio 2015\Projects\EmployeeApp\EmployeeAppTests.Tests\bin\Debug\EmployeeAppTests.Tests.pdb
+c:\users\rmbadmin\documents\visual studio 2015\Projects\EmployeeApp\EmployeeAppTests.Tests\bin\Debug\EmployeeApp.exe
+c:\users\rmbadmin\documents\visual studio 2015\Projects\EmployeeApp\EmployeeAppTests.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\rmbadmin\documents\visual studio 2015\Projects\EmployeeApp\EmployeeAppTests.Tests\bin\Debug\EmployeeApp.pdb
+c:\users\rmbadmin\documents\visual studio 2015\Projects\EmployeeApp\EmployeeAppTests.Tests\obj\Debug\EmployeeAppTests.Tests.csprojResolveAssemblyReference.cache
+c:\users\rmbadmin\documents\visual studio 2015\Projects\EmployeeApp\EmployeeAppTests.Tests\obj\Debug\EmployeeAppTests.Tests.dll
+c:\users\rmbadmin\documents\visual studio 2015\Projects\EmployeeApp\EmployeeAppTests.Tests\obj\Debug\EmployeeAppTests.Tests.pdb
